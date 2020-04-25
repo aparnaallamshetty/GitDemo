@@ -9,5 +9,7 @@ public class Test {
 			System.out.println("added if condition");
 		
 		System.out.println("adding to master");
+		
+		System.out.println("adding one more line to master");
 	}
 }
