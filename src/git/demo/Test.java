@@ -7,5 +7,7 @@ public class Test {
 		
 		if(true)
 			System.out.println("added if condition");
+		
+		System.out.println("adding to master");
 	}
 }
